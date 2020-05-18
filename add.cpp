@@ -9,7 +9,7 @@ int Addition(int a,int b){
 
 int main(){
     int a = 3;
-    int b = 4;
+    int b = 5;
     cout << "tong hai so la : "<<Addition(a,b);
 
 }
